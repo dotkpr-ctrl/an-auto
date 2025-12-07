@@ -1,0 +1,8 @@
+{
+  "name": "Copy of AutoOS - AI Driving Companion",
+  "description": "A web-based simulation of an in-car infotainment system featuring a dashboard, media player, navigation interface, and a real-time voice assistant powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
